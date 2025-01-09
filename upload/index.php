@@ -135,7 +135,7 @@ if(!empty($url)) {
 		}
 		require './'.$parse['path'];
 	} else {
-		header("location: $url");
+		header("location: $url", true, 301);
 	}
 } else {
 	if(preg_match("/^[\w-]+$/i", $_ENV['curapp'])) {
