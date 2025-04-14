@@ -81,9 +81,9 @@
 				<item id="connect_register_bind"><![CDATA[绑定已有账号]]></item>
 				<item id="connect_register_profile"><![CDATA[完善账号信息]]></item>
 				<item id="connect_get_access_token_failed"><![CDATA[抱歉，当前存在网络问题或服务器繁忙，请您稍候再试。谢谢。]]></item>
-				<item id="connect_get_access_token_failed_code"><![CDATA[抱歉，当前存在网络问题或服务器繁忙，详细错误：{codeMessage}，错误代码：<a target=_blank href="https://wiki.connect.qq.com/%e5%85%ac%e5%85%b1%e8%bf%94%e5%9b%9e%e7%a0%81%e8%af%b4%e6%98%8e">{code}</a>，请您稍候再试。谢谢。]]></item>
+				<item id="connect_get_access_token_failed_code"><![CDATA[抱歉，当前存在网络问题或服务器繁忙，详细错误：{codeMessage}，错误代码：<a target=_blank href="https://wiki.connect.qq.com/%e5%85%ac%e5%85%b1%e8%bf%94%e5%9b%9e%e7%a0%81%e8%af%b4%e6%98%8e">{code}</a>，请您稍候再试-access。谢谢。<br>论坛近期QQ登录存在问题，部分用户无法正常使用QQ登录，请尝试使用普通登录。</br>]]></item>
 				<item id="connect_get_request_token_failed"><![CDATA[抱歉，当前存在网络问题或服务器繁忙，请您稍候再试。谢谢。]]></item>
-				<item id="connect_get_request_token_failed_code"><![CDATA[抱歉，当前存在网络问题或服务器繁忙，详细错误：{codeMessage}，错误代码：<a target=_blank href="https://wiki.connect.qq.com/%e5%85%ac%e5%85%b1%e8%bf%94%e5%9b%9e%e7%a0%81%e8%af%b4%e6%98%8e">{code}</a>，请您稍候再试。谢谢。]]></item>
+				<item id="connect_get_request_token_failed_code"><![CDATA[抱歉，当前存在网络问题或服务器繁忙，详细错误：{codeMessage}，错误代码：<a target=_blank href="https://wiki.connect.qq.com/%e5%85%ac%e5%85%b1%e8%bf%94%e5%9b%9e%e7%a0%81%e8%af%b4%e6%98%8e">{code}</a>，请您稍候再试-request。谢谢。<br>论坛近期QQ登录存在问题，部分用户无法正常使用QQ登录，请尝试使用普通登录。</br>]]></item>
 				<item id="connect_register_bind_uin_already"><![CDATA[抱歉，该QQ用户已绑定了本站的另一个用户，无法再次绑定]]></item>
 				<item id="connect_config_success"><![CDATA[QQ互联设置更新成功]]></item>
 				<item id="connect_login_first"><![CDATA[请先使用QQ互联登录再进行此操作]]></item>
