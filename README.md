@@ -17,8 +17,7 @@ Discuz! X 官方 Git (https://gitee.com/Discuz/DiscuzX) ，简体中文 UTF8 版
 
 ### **协助安装** 
 
-为方便站长基于 Discuz! X 搭建网站，[Discuz! 应用中心](https://addon.dismall.com/) 为站长提供代安装 Discuz! X  的服务，详情咨询QQ  1453650
-
+为方便站长基于 Discuz! X 搭建网站，[Discuz! 应用中心](https://addon.dismall.com/service-install.html) 为站长提供安装 Discuz! X  的服务，详情咨询QQ  1453650
 
 ### **安装、升级教程**
 使用发布版的用户，查阅安装包中的 readme.html 文件，使用码云原版的用户，查看：[安装教程](https://gitee.com/Discuz/DiscuzX/wikis/%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B?sort_id=3466132)、[升级教程](https://gitee.com/Discuz/DiscuzX/wikis/%E5%8D%87%E7%BA%A7%E6%96%B9%E6%B3%95?sort_id=9978)
