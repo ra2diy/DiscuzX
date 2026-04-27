@@ -1928,9 +1928,9 @@ EOF;
 				$query = C::t('home_pic')->fetch_all_by_uid($member['uid']);
 				foreach($query as $value) {
 					$picids[] = $value['picid'];
-					deletepicfiles($value);
 				}
 				if(!empty($picids)) {
+					deletepicfiles($query);
 					C::t('common_moderate')->delete_moderate($picids, 'picid');
 				}
 				C::t('home_pic')->delete_by_uid($member['uid']);
